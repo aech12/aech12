@@ -1,5 +1,5 @@
-### Looking to inspire others about Web3 as much as it inspired me!
+### Nexjs dev 😎
 
-- Terrible crypto trader 📉
 - Loves Javascript 🚀
-- Don't be afraid to reach out 👋 
+- Bad crypto trader 📉
+- Looking for better ways to build the web 👋 
