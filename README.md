@@ -1,7 +1,9 @@
-### Nexjs dev 😎
+### Nexjs/Sveltekit fullstack dev
 I help devs debug and develop their sites
 
-- Loves Javascript 🚀
-- Looking for better ways to build the web 👋 
+- Loves Javascript
+- Interested in web 3
+- Always looking for better ways to build the web 
 
-## Currently available for work: No
+## For work inquiries
+Feel free to contact me
