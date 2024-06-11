@@ -1,8 +1,8 @@
 ## Nexjs/Sveltekit fullstack dev
-I help devs debug and develop their sites
+I help devs debug and develop features, and apply good coding practices
 
 - Loves Javascript
-- Interested in web 3
+- Game dev and Blender as hobby
 - Always looking for better ways to build the web 
 
-Feel free to contact me for work inquiries
+Feel free to contact me
