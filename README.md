@@ -1,8 +1,6 @@
-## Nexjs/Sveltekit fullstack dev
-I help devs debug and develop features, and apply good coding practices
+## Profile
+Full stack web dev.
+Game dev enthusiast and 3D art enthusiast.
 
-- Loves Javascript
-- Game dev and Blender as hobby
-- Always looking for better ways to build the web 
 
-Feel free to contact me
+My avatar: 3D model by Chen Wang
